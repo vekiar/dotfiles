@@ -1,0 +1,7 @@
+[legacy/profiles:/:b1dcc9dd-5262-4d8d-a863-c897e6d979b9]
+audible-bell=false
+background-color='rgb(253,246,227)'
+foreground-color='rgb(101,123,131)'
+scrollbar-policy='never'
+use-theme-colors=false
+visible-name='mrv'
