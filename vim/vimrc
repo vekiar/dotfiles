@@ -8,4 +8,4 @@ set number
 set hlsearch
 set ruler
 set noswapfile
-colorscheme smyck
+colorscheme gruvbox
