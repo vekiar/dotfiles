@@ -5,6 +5,3 @@ alias ll="ls -Flash"
 alias s="subl"
 PROMPT="%F{yellow}|>%f "
 RPROMPT="%F{blue}%n%f in %F{green}%c%f"
-
-# Added by LM Studio CLI (lms)
-export PATH="$PATH:/Users/mrv/.cache/lm-studio/bin"
