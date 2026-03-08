@@ -1,7 +1,12 @@
-PATH=$PATH:/Applications/Sublime\ Text.app//Contents/SharedSupport/bin
+## General
 set -o vi
+
+## Aliases
 alias l="ls -Fl"
 alias ll="ls -Flash"
 alias s="subl"
+alias c="container" # if on macOS and with <container> installed
+
+## Prompt
 PROMPT="%F{yellow}|>%f "
-RPROMPT="%F{blue}%n%f in %F{green}%c%f"
+#RPROMPT="%F{blue}%n%f in %F{green}%c%f"
