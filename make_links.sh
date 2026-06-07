@@ -7,11 +7,11 @@
 # - For vi, do we need the two symlinks or can we do with the one? Why?
 
 # tmux
-ln -s /home/mrv/src/dotfiles/tmux.conf /home/mrv/.tmux.conf
+ln -s /home/mrv/src/dotfiles/tmux/tmux.conf /home/mrv/.tmux.conf
 
 # vi
 ln -s /home/mrv/src/dotfiles/vim /home/mrv/.vim
 ln -s /home/mrv/src/dotfiles/vim/vimrc /home/mrv/.vimrc
 
 # zsh
-ln -s /home/mrv/src/dotfiles/zshrc /home/mrv/.zshrc
+ln -s /home/mrv/src/dotfiles/zsh/zshrc /home/mrv/.zshrc
