@@ -1,0 +1,4 @@
+set -o vi
+export BASH_PATH="~/.bash"
+source $BASH_PATH/aliases
+source $BASH_PATH/functions
