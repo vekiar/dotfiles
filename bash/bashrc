@@ -1,4 +1,5 @@
 set -o vi
-export BASH_PATH="~/.bash"
+export USER_PATH="/home/mrv"
+export BASH_PATH="$USER_PATH/.bash"
 source $BASH_PATH/aliases
 source $BASH_PATH/functions
